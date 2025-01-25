@@ -1,6 +1,8 @@
 # keyboard_layouts
 Collection of keyboard layouts for use with QMK tools.  
 
+Note: Layouts are currently WIP while I learn the layout and tweak the settings. Currently only base (alpha) layer is configured, but it should be easily extendable. 
+
 ## License
 
 This repo uses the Apache License 2.0 except where otherwise indicated. See the
@@ -8,7 +10,7 @@ This repo uses the Apache License 2.0 except where otherwise indicated. See the
 
 ## Acknowledgments  
 
-- The [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts) layout is based on @Ikcelaks customisation of [Sturdy](https://oxey.dev/sturdy/index.html) keyboard layout. 
+- The [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts) layout is based on `@Ikcelaks` customisation of [Sturdy](https://oxey.dev/sturdy/index.html) keyboard layout. 
 
 ## firmware
 
